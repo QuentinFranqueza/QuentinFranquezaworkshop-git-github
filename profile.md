@@ -24,6 +24,11 @@ I am interested in programming and learning new technologies. This is my first G
 - [ ] Build a strong GitHub profile
 - [ ] Collaborate effectively with other developers
 
+## Technical Skills
+
+- **Languages:** Python, JavaScript
+- **Tools:** Git, GitHub, VS Code
+- **Concepts:** Version control, Clean code
 ---
 
 *This profile was created as part of the Git Basics Workshop.*
